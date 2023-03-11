@@ -22,4 +22,12 @@
     1. winget list 找到安装软件的id
     2. winget show id
   8. 卸载软件: winget unistall id
+3. winget: windows的包管理工具
+
+
+
+
+
+
+
 
